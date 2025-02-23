@@ -1,0 +1,4 @@
+﻿  Quadratic Formula.cpp
+C:\Users\Rue\my_projects\C++\Quadratic Formula\Quadratic Formula\Quadratic Formula.cpp(29,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Rue\my_projects\C++\Quadratic Formula\Quadratic Formula\Quadratic Formula.cpp(30,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Quadratic Formula.vcxproj -> C:\Users\Rue\my_projects\C++\Quadratic Formula\x64\Debug\Quadratic Formula.exe
